@@ -11,6 +11,10 @@ Develop a chatbot that can interact with multiple PDF documents in a natural and
 - Simple and intuitive user interface built with Streamlit.
 - Utilizes the Gemini Pro API for powerful language model capabilities.
 
+## Demo Video
+
+Watch the [demo video](https://github.com/Disha4346/pdf-chatbot/blob/main/video-demo/pdf%20analyzer.mp4) to see the chatbot in action.
+
 ## Installation
 
 Follow these steps to set up and run the chatbot:
